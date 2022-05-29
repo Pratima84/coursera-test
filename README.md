@@ -1,2 +1,3 @@
 # coursera-test
-Coursera test repository
+Repository to assigments of Coursera Course for HTML, CSS, and Javascript for Web Developers.
+
